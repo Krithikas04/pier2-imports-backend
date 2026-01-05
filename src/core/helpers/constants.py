@@ -1,0 +1,4 @@
+
+ALLOWED_ORIGIN = [
+    "https://example.com",
+]
