@@ -24,8 +24,7 @@ A Python-based backend system for Pier 2 Imports, managing customers, orders, bi
 ### 1. Setup Environment
 ```bash
 # Clone repository
-git clone <repository-url>
-cd pier2-imports-backend
+git clone https://github.com/Krithikas04/pier2-imports-backend.git
 
 # Create virtual environment
 python3 -m venv venv
@@ -160,8 +159,4 @@ pier2-imports-backend/
 ├── pytest.ini          # Test configuration
 └── README.md            # This file
 ```
-
-## License
-
-MIT License - see LICENSE file for details
 
